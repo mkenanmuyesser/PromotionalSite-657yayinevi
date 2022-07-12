@@ -1,0 +1,123 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Root.master.cs" Inherits="Yayinevi_657_Project.Master_Page.Root" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<head runat="server">
+    <title>657 EĞİTİM KURUMLARI</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
+    <meta name="description" content="Finesse is a responsive business and portfolio theme carefully handcrafted using the latest technologies. It features a clean design, as well as extended functionality that will come in very handy.">
+    <meta name="keywords" content="Finesse, responsive business portfolio theme, HTML5, CSS3, clean design">
+    <meta name="author" content="Ixtendo">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="../style.css" rel="stylesheet" />
+    <link href="../Css/colors/orange.css" rel="stylesheet" />
+    <link href="../Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="display: none;">
+            kpss kitaplar, 2013 kpss kitapları, kpss a kitap, data kpss, 2012 kpss kitap, kpss
+        2013 yayınları, kpss kitap, 2013 kpss a, kitap kpss, kpss kitabı, kpss kitabi, kpss
+        data, akademik kitap, kpss uzman kariyer, akademik kitaplar, kpss sorulari, deneme
+        sınavları, deneme sınav soruları, kpss sinav, kpss a sınav soruları, kps sınavları,
+        kps sınav, kps sinavi, kpss a deneme, kpss deneme, deneme kpss, kpss soruları lisans,
+        a kpss, kpss 2012 kpss, kpss lisans, ortaögretim kpss, ön lisans kpss, kpss orta
+        ogretim, kpss a 2012 soruları, deneme sınavı kpss, kpss deneme sınavı, kpss deneme
+        sınavları, deneme sınavları kpss, kpss ortaogretim sorulari, kpss orta soruları,
+        kpss deneme sınav, 2012 ön lisans kpss, kpss ön lisans 2012, kpss deneme soruları,
+        kitap yayınevi, kpss sorulari ve cevaplari, kpss denemeleri, kps soruları, kpss
+        a kitapları, kpss 2012 deneme sınavları, sorular kpss, idari yargı hakimliği soruları,
+        idari hakim sınav soruları, kpss yayınları, kpss seti, kpss setleri, kpss kaynak,
+        kpss yayın, kpsss soruları, KPSS , SORU BANKASI , HUKUK , KİTAP , YURTTAŞLIK , VATANDAŞLIK
+        , HAKİMLİK , SINAV , KPSS KAYNAK
+        </div>
+        <div id="wrap">
+            <header id="header" class="container">
+                <section id="header-top" class="clearfix">
+                    <div class="one-half">
+                        <h1 id="logo"><a href="Default.aspx">
+                            <img src="images/logo.png" alt="657 Eğitim Kurumları"></a></h1>
+                        <%--  <p id="tagline">DOĞRU BİLGİNİN ADRESİ</p>--%>
+                    </div>
+                    <div class="one-half column-last">
+                        <div id="polyglotLanguageSwitcher">
+                        </div>
+                        <div class="contact-info">
+                            <p class="phone" style="font-size: x-large; font-weight: bold; margin-bottom: 8px;">(0 541) 657 1 657</p>
+                            <p class="phone" style="font-size: x-large; font-weight: bold;">(0 312) 431 90 90</p>
+                            <p class="email"><a href="mailto:ankara@657egitim.com">ankara@657egitim.com</a></p>
+                        </div>
+                    </div>
+                </section>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolderMenu" runat="server">
+                </asp:ContentPlaceHolder>
+            </header>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer id="footer">
+                <div class="container">
+                    <div id="footer-top">
+                        <div class="one-fourth">
+                            <div class="widget"></div>
+                            <%--<div class="widget">
+                                <h3>Banka Hesap Bilgileri</h3>
+                                <p> 657 Yayıncılık Ltd. Şti.<br />
+                                    Garanti Bankası<br />Küçükesat Şubesi<br />
+                                    Şube Kodu : 732<br />
+                                    Hesap No : 6298875<br />
+                                    IBAN : <br />TR80 0006 2000 7320 0006 2988 75</p>
+                            </div>--%>
+                        </div>
+                        <div class="one-fourth">
+                            <div class="widget latest-posts">
+                            </div>
+                        </div>
+                        <div class="one-fourth">
+                            <div class="widget twitter-widget">
+                            </div>
+                        </div>
+                        <div class="one-fourth column-last">
+                            <div class="widget contact-info">
+                                <h3>İletişim Bilgileri</h3>
+                                <p class="address"><strong>Adres: Ziya Gökalp Cad. İnkılap Sok.  No:19 Kat: 4 - 5   Kızılay / ANKARA</strong></p>
+                                <p class="phone"><strong>Telefon: </strong>(0 541) 657 1 657</p>
+                                <p class="phone"><strong>Telefon: </strong>(0 312) 431 90 90</p>                               
+                                <p class="email"><strong>E-posta: </strong><a href="mailto:info@finesse.com">ankara@657egitim.com</a></p>
+                                <%-- <div class="social-links">
+                                    <h4>Sosyal Medyada Takip Edin</h4>
+                                    <ul>
+                                        <li class="facebook"><a href="https://www.facebook.com/groups/343049005778824/?fref=ts" title="Facebook" target="_blank">Facebook</a></li>
+                                        <li class="twitter"><a href="https://twitter.com/657yayinevi" title="Twitter" target="_blank">Twitter</a></li>
+                                    </ul>
+                                </div>--%>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="footer-bottom">
+                        <div class="one-half">
+                            <p>657 EĞİTİM KURUMLARI &copy; 2016  </p>
+                        </div>
+
+                        <div class="one-half column-last">
+                            <nav id="footer-nav">
+                                <ul>
+                                    <li><a href="Default.aspx">Anasayfa</a> &middot;</li>
+                                    <li><a href="Kurslarimiz.aspx">Kurslarımız</a> &middot;</li>
+                                    <li><a href="Kaynaklarimiz.aspx">Kaynaklarımız</a> &middot;</li>
+                                    <li><a href="Kadromuz.aspx">Kadromuz</a> &middot;</li>
+                                    <li><a href="Hakkimizda.aspx">Hakkımızda</a> &middot;</li>
+                                    <li><a href="Iletisim.aspx">İletişim</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

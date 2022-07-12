@@ -1,0 +1,1048 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\kenan\Desktop\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CSharp.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.DataAnnotations.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Data.DataSetExtensions.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Data.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Data.Linq.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Drawing.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.EnterpriseServices.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.ApplicationServices.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.DynamicData.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Services.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Xml.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/System.Xml.Linq.dll">
+      <publishTime>03/18/2010 19:31:26</publishTime>
+    </File>
+    <File Include="bin/Yayinevi_657_Project.dll">
+      <publishTime>07/31/2016 13:55:32</publishTime>
+    </File>
+    <File Include="Css/colors/blue.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/green.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/light-orange.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/orange.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/pink.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/purple.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/red.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/colors/teal.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/flexslider.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/html5-reset.css">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Css/ie.css">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Css/jquery.fancybox.css">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Css/mediaelementplayer.css">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Css/polyglot-language-switcher.css">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Css/shortcodes.css">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Data/YayineviData.xml">
+      <publishTime>07/30/2016 19:10:54</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/30/2016 19:10:54</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/30/2016 14:03:04</publishTime>
+    </File>
+    <File Include="Hakkimizda.aspx">
+      <publishTime>07/30/2016 19:10:54</publishTime>
+    </File>
+    <File Include="Iletisim.aspx">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/alert-16.png">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/alert-56.png">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/classy_fabric.png">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/farmer.png">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/first_aid_kit.png">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/graphy.png">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/grid.png">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/kuji.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/low_contrast_linen.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/mirrored_squares.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/nasty_fabric.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/norwegian_rose.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/office.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/otis_redding.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/px_by_Gre3g.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/ravenna.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/soft_wallpaper.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/squares.png">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/tiny_grid.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/vichy.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/washi.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/wavecut.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/boxed/whitey.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/bricks.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/brilliant.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/dots.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/squares-and-crosses.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/squares.png">
+      <publishTime>07/30/2016 14:03:20</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/subtle-dots.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/background-patterns/wide/swirl.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-aside.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-audio.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-gallery.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-image.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-link.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-quote.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/blog/post-standard.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/blog/post-video.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/bullets-and-arrows/arrow-down-lg-switcher.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/bullets-and-arrows/arrow-right.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/bullets-and-arrows/check.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/bullets-and-arrows/circle.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/bullets-and-arrows/square.png">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/carousel-arrows.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/check-green.png">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/client-logos/audiojungle.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/client-logos/codecanyon.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/client-logos/graphicriver.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/client-logos/photodune.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/client-logos/themeforest.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/contact/clock.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/contact/fax.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/contact/home.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/contact/mail.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/contact/phone.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/demo/avatar-50x50.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/demo/team-member.png">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/building-220x130.png">
+      <publishTime>07/30/2016 14:03:24</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/dining-and-living-cream-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/dining-brown-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/dining-white-220x130.png">
+      <publishTime>07/30/2016 14:03:25</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/dining-white2-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/living-brown-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/living-large-windows-220x130.png">
+      <publishTime>07/30/2016 14:03:24</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/living-white-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/study-220x130.png">
+      <publishTime>07/30/2016 14:03:23</publishTime>
+    </File>
+    <File Include="Images/entries/220x130/villa-220x130.png">
+      <publishTime>07/30/2016 14:03:24</publishTime>
+    </File>
+    <File Include="Images/entries/700x240/dining-brown-700x240.png">
+      <publishTime>07/30/2016 14:03:26</publishTime>
+    </File>
+    <File Include="Images/entries/700x240/dining-white-700x240.png">
+      <publishTime>07/30/2016 14:03:27</publishTime>
+    </File>
+    <File Include="Images/entries/700x240/dining-white2-700x240.png">
+      <publishTime>07/30/2016 14:03:27</publishTime>
+    </File>
+    <File Include="Images/entries/700x240/living-white-700x240.png">
+      <publishTime>07/30/2016 14:03:28</publishTime>
+    </File>
+    <File Include="Images/entries/700x240/study-700x240.png">
+      <publishTime>07/30/2016 14:03:26</publishTime>
+    </File>
+    <File Include="Images/entries/700x500/dining-and-living-cream-700x500.png">
+      <publishTime>07/30/2016 14:03:30</publishTime>
+    </File>
+    <File Include="Images/entries/700x500/living-brown-700x500.png">
+      <publishTime>07/30/2016 14:03:26</publishTime>
+    </File>
+    <File Include="Images/entries/700x500/living-white-700x500.png">
+      <publishTime>07/30/2016 14:03:30</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/building.jpg">
+      <publishTime>07/30/2016 14:03:29</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/dining-and-living-cream.jpg">
+      <publishTime>07/30/2016 14:03:28</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/dining-brown.jpg">
+      <publishTime>07/30/2016 14:03:30</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/dining-white.jpg">
+      <publishTime>07/30/2016 14:03:30</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/dining-white2.jpg">
+      <publishTime>07/30/2016 14:03:31</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/living-brown.jpg">
+      <publishTime>07/30/2016 14:03:31</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/living-large-windows.jpg">
+      <publishTime>07/30/2016 14:03:31</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/living-white.jpg">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/study.jpg">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/entries/full-size/villa.jpg">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/entries/video/video1-700x393.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/entries/video/video2-700x393.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/error-16.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/fancybox/blank.gif">
+      <publishTime>07/30/2016 14:03:31</publishTime>
+    </File>
+    <File Include="Images/fancybox/fancybox_buttons.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/fancybox/fancybox_loading.gif">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/fancybox/fancybox_overlay.png">
+      <publishTime>07/30/2016 14:03:31</publishTime>
+    </File>
+    <File Include="Images/fancybox/fancybox_sprite.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/favicon.ico">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/flag-16.png">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/flags/de.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/flags/es.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/flags/fr.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/flags/gb.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/flags/it.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/flags/mx.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/flags/ru.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/flags/us.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/footer/contact/fax-footer.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/footer/contact/home-footer.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/footer/contact/mail-footer.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/footer/contact/phone-footer.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/footer/pencil-footer.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/footer/twitter-bullet-footer.png">
+      <publishTime>07/30/2016 14:03:32</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/address-book.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/applications.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/chemical.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/cog.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/computer.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/globe.png">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/mouse.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/icon-boxes/write.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/info-16.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/isortaklari/kitapsec.jpg">
+      <publishTime>07/30/2016 14:03:33</publishTime>
+    </File>
+    <File Include="Images/isortaklari/yargi.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/Logo.png">
+      <publishTime>07/30/2016 14:03:16</publishTime>
+    </File>
+    <File Include="Images/media-player/background.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/media-player/bigplay.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/media-player/controls.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/media-player/loading.gif">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/overlay-link.png">
+      <publishTime>07/30/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Images/overlay-zoom.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/btnNext.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/btnPrevious.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/contentPattern.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/default_thumbnail.gif">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/loader.gif">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_rounded/sprite.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/btnNext.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/btnPrevious.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/contentPattern.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/default_thumbnail.gif">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/loader.gif">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/dark_square/sprite.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/default_thumb.png">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/loader.gif">
+      <publishTime>07/30/2016 14:03:34</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/sprite.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/sprite_next.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/sprite_prev.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/sprite_x.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/default/sprite_y.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/btnNext.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/btnPrevious.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/contentPatternBottom.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/contentPatternLeft.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/contentPatternRight.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/contentPatternTop.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/default_thumbnail.gif">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/loader.gif">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/facebook/sprite.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_rounded/btnNext.png">
+      <publishTime>07/30/2016 14:03:35</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_rounded/btnPrevious.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_rounded/default_thumbnail.gif">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_rounded/loader.gif">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_rounded/sprite.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_square/btnNext.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_square/btnPrevious.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_square/default_thumbnail.gif">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_square/loader.gif">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/prettyPhoto/light_square/sprite.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/quote.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/scroll-top.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/search.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/slider/arrows.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/slider/slides/building-940x350.png">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Images/slider/slides/dining-brown-940x350.png">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Images/slider/slides/living-brown-940x350.png">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Images/slider/slides/living-white-940x350.png">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Images/slider/slides/villa-940x350.png">
+      <publishTime>07/30/2016 14:03:43</publishTime>
+    </File>
+    <File Include="Images/social-media/email.png">
+      <publishTime>07/30/2016 14:03:36</publishTime>
+    </File>
+    <File Include="Images/social-media/facebook-circular.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/facebook.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/google-circular.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/googleplus.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/linkedin.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/rss-circular.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/social-media/skype-circular.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/skype.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/twitter-circular.png">
+      <publishTime>07/30/2016 14:03:37</publishTime>
+    </File>
+    <File Include="Images/social-media/twitter.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/social-media/youtube-circular.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/testimonial-arrow.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/toggle-minus.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/toggle-plus.png">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/web-browsers/chrome.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/web-browsers/firefox.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/web-browsers/internet-explorer.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/web-browsers/opera.png">
+      <publishTime>07/30/2016 14:03:38</publishTime>
+    </File>
+    <File Include="Images/web-browsers/safari.png">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/1.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/10.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/11.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/12.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/13.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/14.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/15.jpg">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/16.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/17.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/18.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/19.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/2.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/20.jpg">
+      <publishTime>07/30/2016 19:10:56</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/21.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/22.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/23.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/24.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/25.jpg">
+      <publishTime>07/30/2016 19:10:59</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/26.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/27.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/28.jpg">
+      <publishTime>07/30/2016 19:10:57</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/29.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/3.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/4.jpg">
+      <publishTime>07/30/2016 19:11:00</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/5.jpg">
+      <publishTime>07/30/2016 19:11:01</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/6.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/7.jpg">
+      <publishTime>07/30/2016 19:10:58</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/8.jpg">
+      <publishTime>07/30/2016 19:11:01</publishTime>
+    </File>
+    <File Include="Images/_Kaynaklar/9.jpg">
+      <publishTime>07/30/2016 19:10:59</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2014 HAKİMİM İdari Yargı Hakimlik Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2014 KPSS A Grubu İktisat Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:07</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2014 MÜDÜRÜM İcra Müdür ve Müdür Yardımcılığı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:08</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2014 Polisim PMYO Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2014 Vergi Hukuku Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:08</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Gelir Uzman Yardımcılığı Soru Cevap.gif">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Gelir Uzman Yardımcılığı ve Vergi Hukuku Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Hakimim - Adli Yargı Hakimlik Açıklamalı Soru Bankası %283.Baskı%29.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Hukuk Mülakat Bilgiyi Konuşturan Kitap.jpg">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Kamu Hukuku Ders Notları KPSS ve Tüm Kurum Sınavları İçin.jpg">
+      <publishTime>07/30/2016 14:03:08</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Kaymakamlık Konu Anlatımlı Hazırlık Kitabı %28Yeni Sistem%29.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Grubu Açıklamalı Muhasebe Soru Bankası.gif">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Grubu Kamu Yönetimi Konu Anlatımlı.jpg">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Grubu Mikro İktisat Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Grubu Muhasebe Ders Notları.jpg">
+      <publishTime>07/30/2016 14:03:09</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Grubu Tüm Kadrolar Mülakat Soruları.gif">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS A Maliye Ders Notları.jpg">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS Kamu Hukuku Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS Renklerle Tarih Soru Cevap.jpg">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS Tarih Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS Tarih Konu Anlatımlı.jpg">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 KPSS Özel Hukuk Açıklamalı Soru Bankası.gif">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Lise Önlisans Mezunları İçin Bankacılık Mülakat Soruları.gif">
+      <publishTime>07/30/2016 14:03:10</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Maliye Soru Bankası KPSS ve Tüm Kurum Sınavları İçin.jpg">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Sağlık Ekonomisi.gif">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Sözleşmeli Subaylık Astsubaylık ve JANA Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:12</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Vergi Mevzuatı Hazırlık Kitabı.jpg">
+      <publishTime>07/30/2016 14:03:13</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 ÖABT Sosyal Bilgiler Öğretmenliği Tamamı Çözümlü Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 ÖABT Tarih Öğretmenliği Tamamı Çözümlü Soru Bankası.gif">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/2015 Özel Hukuk Ders Notları KPSS ve Tüm Kurum Sınavları İçin.jpg">
+      <publishTime>07/30/2016 14:03:11</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/Askerim Askeri Sınavlara Hazırlık Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:13</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/Kamu Yönetimi.jpg">
+      <publishTime>07/30/2016 14:03:22</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/Kaymakamlık.jpg">
+      <publishTime>07/30/2016 14:03:21</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/KPSS Muhasebe Açıklamalı Soru Bankası.jpg">
+      <publishTime>07/30/2016 14:03:12</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/KPSS Temel Yurttaşlık Bilgisi Renklerle Soru Cevap.jpg">
+      <publishTime>07/30/2016 14:03:12</publishTime>
+    </File>
+    <File Include="Images/_Kitaplar/İcra Müdür ve Müdür Yardımcılığı 5 Deneme Sınavı.jpg">
+      <publishTime>07/30/2016 14:03:12</publishTime>
+    </File>
+    <File Include="Images/_KonferansResimler/1.jpg">
+      <publishTime>07/30/2016 14:03:16</publishTime>
+    </File>
+    <File Include="Images/_KonferansResimler/2.jpg">
+      <publishTime>07/30/2016 14:03:14</publishTime>
+    </File>
+    <File Include="Images/_KonferansResimler/3.jpg">
+      <publishTime>07/30/2016 14:03:13</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/1.jpg">
+      <publishTime>07/30/2016 19:10:59</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/2.jpg">
+      <publishTime>07/30/2016 19:11:00</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/3.jpg">
+      <publishTime>07/30/2016 19:11:00</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/4.jpg">
+      <publishTime>07/30/2016 19:11:01</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/5.jpg">
+      <publishTime>07/31/2016 01:25:41</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/6.jpg">
+      <publishTime>07/31/2016 01:25:41</publishTime>
+    </File>
+    <File Include="Images/_Kurslar/7.jpg">
+      <publishTime>07/31/2016 01:25:41</publishTime>
+    </File>
+    <File Include="Images/_Slaytlar/res1.jpg">
+      <publishTime>07/30/2016 14:03:17</publishTime>
+    </File>
+    <File Include="Images/_Slaytlar/res2.jpg">
+      <publishTime>07/30/2016 14:03:19</publishTime>
+    </File>
+    <File Include="Images/_Yayinevi/1.png">
+      <publishTime>07/30/2016 14:03:16</publishTime>
+    </File>
+    <File Include="Images/_Yayinevi/2.jpg">
+      <publishTime>07/30/2016 14:03:17</publishTime>
+    </File>
+    <File Include="Images/_Yazarlar/leventersin.jpg">
+      <publishTime>07/30/2016 14:03:18</publishTime>
+    </File>
+    <File Include="Images/_Yazarlar/serhatguven.jpg">
+      <publishTime>07/30/2016 14:03:24</publishTime>
+    </File>
+    <File Include="Js/custom.js">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Js/ddlevelsmenu.js">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Js/flashmediaelement.swf">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/ie.js">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Js/jflickrfeed.min.js">
+      <publishTime>07/30/2016 14:03:39</publishTime>
+    </File>
+    <File Include="Js/jquery-1.7.2.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/jquery-ui-1.10.1.custom.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/jquery.cycle.all.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.easing.1.3.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.fancybox.pack.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.fitvids.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.flexslider-min.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.gmap.min.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.jcarousel.min.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.polyglot.language.switcher.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.quicksand.js">
+      <publishTime>07/30/2016 14:03:42</publishTime>
+    </File>
+    <File Include="Js/jquery.touchSwipe.min.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.tweet.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.ui.totop.min.js">
+      <publishTime>07/30/2016 14:03:40</publishTime>
+    </File>
+    <File Include="Js/jquery.validate.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/mediaelement-and-player.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/modernizr.custom.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/respond.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/responsive-tables.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Js/tinynav.min.js">
+      <publishTime>07/30/2016 14:03:41</publishTime>
+    </File>
+    <File Include="Kadromuz.aspx">
+      <publishTime>07/30/2016 19:10:55</publishTime>
+    </File>
+    <File Include="Kaynaklarimiz.aspx">
+      <publishTime>07/30/2016 19:10:54</publishTime>
+    </File>
+    <File Include="Kurslarimiz.aspx">
+      <publishTime>07/30/2016 19:10:54</publishTime>
+    </File>
+    <File Include="Master_Page/Root.Master">
+      <publishTime>07/30/2016 19:10:59</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>07/30/2016 14:03:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/31/2016 13:55:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

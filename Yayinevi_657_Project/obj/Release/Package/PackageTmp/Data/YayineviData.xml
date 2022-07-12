@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <KonferansDersler>
+    <KonferansDers Id="1" >
+      <DersAdi>KAYMAKAMLIK</DersAdi>
+      <Baslik>KAYMAKAMLIK SINAVI HAZIRLIK</Baslik>
+      <ToplamSaat>124 SAAT</ToplamSaat>
+      <Yer>ANKARA</Yer>
+      <ZamanBaslangic>14.02.2015</ZamanBaslangic>
+      <ZamanBitis>15.03.2015</ZamanBitis>
+      <Aciklama>
+        Hafta Sonu        : Saat 09.00 - 16.00
+        Hafta İçi  : Saat 18.00 - 21.00
+      </Aciklama>
+      <Dersler>
+        <Ders Id="1">ANAYASA HUKUKU</Ders>
+        <Ders Id="2">İDARE HUKUKU</Ders>
+        <Ders Id="3">MAHALLİ İDARELER</Ders>
+        <Ders Id="4">İDARİ TEŞKİLAT</Ders>
+        <Ders Id="5">İNSAN HAKLARI</Ders>
+        <Ders Id="6">EKONOMİ</Ders>
+        <Ders Id="7">İNKILAP TARİHİ</Ders>
+      </Dersler>
+      <Hocalar>
+        <Hoca Id="1">
+          <AdiSoyadi>SERHAT GÜVEN</AdiSoyadi>
+          <Aciklama>ANAYASA HUKUKU</Aciklama>
+          <Resim>images/_Yazarlar/serhatguven.jpg</Resim>
+        </Hoca>
+        <Hoca Id="2">
+          <AdiSoyadi>DR. LEVENT ERSİN</AdiSoyadi>
+          <Aciklama>İDARİ HUKUKU</Aciklama>
+          <Resim>images/_Yazarlar/leventersin.jpg</Resim>
+        </Hoca>
+      </Hocalar>
+      <HediyeYayinlar>
+        <HediyeYayin Id="1">
+          <Adi>657 KAMU HUKUKU DERS NOTLARI</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20Kamu%20Hukuku%20Ders%20Notları%20KPSS%20ve%20Tüm%20Kurum%20Sınavları%20İçin.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="2">
+          <Adi>657 KAMU YÖNETİMİ DERS NOTLARI</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/Kamu%20Yönetimi.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="3">
+          <Adi>657 KAYMAKAMLIK SINAVA HAZIRLIK KİTABI</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/Kaymakamlık.jpg</Resim>
+        </HediyeYayin>
+      </HediyeYayinlar>
+      <KonferansResimler>
+        <KonferansResim Id="1">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/1.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="2">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/2.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="3">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/3.jpg</Resim>
+        </KonferansResim>
+      </KonferansResimler>
+    </KonferansDers>
+    <KonferansDers Id="2" >
+      <DersAdi>HAKİMLİK</DersAdi>
+      <Baslik>HAKİMLİK SINAVI HAZIRLIK</Baslik>
+      <ToplamSaat>150 SAAT</ToplamSaat>
+      <Yer>ANKARA</Yer>
+      <ZamanBaslangic>01.01.2015</ZamanBaslangic>
+      <ZamanBitis>02.01.2015</ZamanBitis>
+      <Aciklama>
+        Hafta Sonu        : Saat 09.00 - 16.00
+        Hafta İçi  : Saat 18.00 - 21.00
+      </Aciklama>
+      <Dersler>
+        <Ders Id="1">ANAYASA HUKUKU</Ders>
+        <Ders Id="2">İDARE HUKUKU</Ders>
+        <Ders Id="3">MAHALLİ İDARELER</Ders>
+      </Dersler>
+      <Hocalar>
+        <Hoca Id="1">
+          <AdiSoyadi>SERHAT GÜVEN</AdiSoyadi>
+          <Aciklama>ANAYASA HUKUKU</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+        <Hoca Id="2">
+          <AdiSoyadi>DR. LEVENT ERSİN</AdiSoyadi>
+          <Aciklama>İDARİ HUKUKU</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+      </Hocalar>
+      <HediyeYayinlar>
+        <HediyeYayin Id="1">
+          <Adi>2014 HAKİMİM İdari Yargı Hakimlik Açıklamalı Soru Bankası</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2014%20HAKİMİM%20İdari%20Yargı%20Hakimlik%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="2">
+          <Adi>2014 Hakimim - Adli Yargı Hakimlik Soru Bankası</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2014%20Hakimim%20-%20Adli%20Yargı%20Hakimlik%20Soru%20Bankası.jpg</Resim>
+        </HediyeYayin>
+      </HediyeYayinlar>
+      <KonferansResimler>
+        <KonferansResim Id="1">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/1.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="2">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/2.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="3">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/3.jpg</Resim>
+        </KonferansResim>
+      </KonferansResimler>
+    </KonferansDers>
+    <KonferansDers Id="3" >
+      <DersAdi>KPSS - A</DersAdi>
+      <Baslik>KPSS - A SINAVI HAZIRLIK</Baslik>
+      <ToplamSaat>440 SAAT</ToplamSaat>
+      <Yer>ANKARA</Yer>
+      <ZamanBaslangic>01.01.2015</ZamanBaslangic>
+      <ZamanBitis>02.01.2015</ZamanBitis>
+      <Aciklama>
+        Hafta Sonu        : Saat 09.00 - 16.00
+        Hafta İçi  : Saat 18.00 - 21.00
+      </Aciklama>
+      <Dersler>
+        <Ders Id="1">HUKUK</Ders>
+        <Ders Id="2">İKTİSAT</Ders>
+        <Ders Id="3">MALİYE</Ders>
+        <Ders Id="4">MUHASEBE</Ders>
+      </Dersler>
+      <Hocalar>
+        <Hoca Id="1">
+          <AdiSoyadi>SERHAT GÜVEN</AdiSoyadi>
+          <Aciklama>ANAYASA HUKUKU</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+        <Hoca Id="2">
+          <AdiSoyadi>DR. LEVENT ERSİN</AdiSoyadi>
+          <Aciklama>İDARİ HUKUKU</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+        <Hoca Id="3">
+          <AdiSoyadi>ALTUĞ M. KÖKTAŞ</AdiSoyadi>
+          <Aciklama>MALİYE</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+        <Hoca Id="4">
+          <AdiSoyadi>AYTEN ÖZBİNGÖL</AdiSoyadi>
+          <Aciklama>MUHASEBE</Aciklama>
+          <Resim>images/demo/team-member.png</Resim>
+        </Hoca>
+      </Hocalar>
+      <HediyeYayinlar>
+        <HediyeYayin Id="1">
+          <Adi>657 Özel Hukuk Ders Notları KPSS ve Tüm Kurum Sınavları İçin</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20Özel%20Hukuk%20Ders%20Notları%20KPSS%20ve%20Tüm%20Kurum%20Sınavları%20İçin.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="2">
+          <Adi>657 Kamu Hukuku Ders Notları KPSS ve Tüm Kurum Sınavları İçin</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20Kamu%20Hukuku%20Ders%20Notları%20KPSS%20ve%20Tüm%20Kurum%20Sınavları%20İçin.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="3">
+          <Adi>657 KPSS A Maliye Ders Notları</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20KPSS%20A%20Maliye%20Ders%20Notları.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="4">
+          <Adi>657 KPSS Kamu Hukuku Açıklamalı Soru Bankası</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20KPSS%20Kamu%20Hukuku%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="5">
+          <Adi>657 KPSS Özel Hukuk Açıklamalı Soru Bankası</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20KPSS%20Özel%20Hukuk%20Açıklamalı%20Soru%20Bankası.gif</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="6">
+          <Adi>657 Maliye Soru Bankası KPSS ve Tüm Kurum Sınavları İçin</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20Maliye%20Soru%20Bankası%20KPSS%20ve%20Tüm%20Kurum%20Sınavları%20İçin.jpg</Resim>
+        </HediyeYayin>
+        <HediyeYayin Id="6">
+          <Adi>657 KPSS A Grubu Açıklamalı Muhasebe Soru Bankası</Adi>
+          <Aciklama></Aciklama>
+          <Resim>Images/_Kitaplar/2015%20KPSS%20A%20Grubu%20Açıklamalı%20Muhasebe%20Soru%20Bankası.gif</Resim>
+        </HediyeYayin>
+      </HediyeYayinlar>
+      <KonferansResimler>
+        <KonferansResim Id="1">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/1.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="2">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/2.jpg</Resim>
+        </KonferansResim>
+        <KonferansResim Id="3">
+          <Baslik></Baslik>
+          <Resim>images/_KonferansResimler/3.jpg</Resim>
+        </KonferansResim>
+      </KonferansResimler>
+    </KonferansDers>
+  </KonferansDersler>
+  <Haberler>
+    <Haber Id="1">
+      <Tarih></Tarih>
+      <Aciklama>ADLİ - İDARİ YARGI HAKİMLİK SINAVLARI 24 ARALIĞA ERTELENDİ.</Aciklama>
+    </Haber>  
+     <Haber Id="2">
+      <Tarih></Tarih>
+      <Aciklama>LİSE - ÖN LİSANS KPSS BAŞVURULARI AĞUSTOSTA BAŞLIYOR.</Aciklama>
+    </Haber>
+    <Haber Id="3">
+      <Tarih></Tarih>
+      <Aciklama>SAYIŞTAY ELEME SINAV BAŞVURUSU 20 EYLÜL'DE BAŞLIYOR.</Aciklama>
+    </Haber>
+    <Haber Id="4">
+      <Tarih></Tarih>
+      <Aciklama>ALES SINAV TARİHİ: 20 KASIM 2016.</Aciklama>
+    </Haber>
+  </Haberler>
+  <Kaynaklar>
+    <Kaynak Id="1">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/1.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="2">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/2.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="3">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/3.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="4">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/4.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="5">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/5.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="6">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/6.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="7">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/7.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="8">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/8.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="9">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/9.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="10">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/10.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="11">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/11.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="12">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/12.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="13">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/13.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="14">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/14.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="15">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/15.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="16">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/16.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="17">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/17.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="18">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/18.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="19">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/19.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="20">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/20.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="21">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/21.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="22">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/22.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="23">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/23.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="24">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/24.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="25">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/25.jpg</Resim>
+      <Kategori>3</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="26">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/26.jpg</Resim>
+      <Kategori>3</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="27">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/27.jpg</Resim>
+      <Kategori>3</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="28">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/28.jpg</Resim>
+      <Kategori>3</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>
+    <Kaynak Id="29">
+      <KaynakAdi></KaynakAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kaynaklar/29.jpg</Resim>
+      <Kategori>3</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>1</Sira>
+    </Kaynak>    
+  </Kaynaklar>
+  <Kitaplar>
+    <Kitap Id="1">
+      <KitapAdi>KPSS Temel Yurttaşlık Bilgisi Renklerle Soru Cevap</KitapAdi>
+      <Aciklama>
+        İÇİNDEKİLER :
+        TEMEL HUKUK
+        MEDENİ HUKUK
+        BORÇLAR HUKUKU
+        TİCARET HUKUKU
+        MİRAS HUKUKU
+        CEZA HUKUKU
+        ANAYASA HUKUKU
+        ANAYASAL TARİH
+        GENEL ESASLAR
+        TEMEL HAK ve HÜRRİYETLER
+        YASAMA
+        YÜRÜTME
+        YARGI
+        MALİ HÜKÜMLER
+        ANAYASA DEĞİŞİKLİĞİ
+        İDARE HUKUKU
+        GÜNCEL KONULAR
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/KPSS%20Temel%20Yurttaşlık%20Bilgisi%20Renklerle%20Soru%20Cevap.jpg</Resim>
+      <Kategori>2</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>84</Sira>
+    </Kitap>
+    <Kitap Id="2">
+      <KitapAdi>2015 Hakimim - Adli Yargı Hakimlik Açıklamalı Soru Bankası (3.Baskı)</KitapAdi>
+      <Aciklama>
+        GENİŞLETİLMİŞ VE GÜNCELLENMİŞ 3. BASKI.
+        - AKADEMİSYEN HOCALARCA HAZIRLANMIŞ TAMAMI AÇIKLAMALI 2000`NİN ÜZERİNDE SINAV FORMATINDA SORU.
+        - HAKİM OLANLARIN VE OLACAKLARIN KİTABI !
+
+        İÇİNDEKİLER :
+        ANAYASA HUKUKU
+        İDARE HUKUKU
+        İDARİ YARGILAMA HUKUKU
+        CEZA HUKUKU (GENEL VE ÖZEL HÜKÜMLER)
+        CEZA MUHAKEMELERİ HUKUKU
+        MEDENİ HUKUK
+        BORÇLAR HUKUKU (GENEL VE ÖZEL HÜKÜMLER)
+        TİCARET HUKUKU
+        MEDENİ USUL HUKUKU
+        İCRA VE İFLAS HUKUKU
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2015%20Hakimim%20-%20Adli%20Yargı%20Hakimlik%20Açıklamalı%20Soru%20Bankası%20(3.Baskı).jpg</Resim>
+      <Kategori>4</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>91</Sira>
+    </Kitap>
+    <Kitap Id="3">
+      <KitapAdi>2014 HAKİMİM İdari Yargı Hakimlik Açıklamalı Soru Bankası</KitapAdi>
+      <Aciklama>
+        İÇİNDEKİLER :
+        ANAYASA HUKUKU
+        İDARE HUKUKU
+        İDARİ YARGILAMA HUKUKU
+        CEZA HUKUKU (Genel Hükümler)
+        MEDENİ HUKUK
+        BORÇLAR HUKUKU (Genel Hükümler)
+        MEDENİ USUL HUKUKU
+        VERGİ - VERGİ USUL HUKUKU
+        MALİYE
+        İKTİSAT
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2014%20HAKİMİM%20İdari%20Yargı%20Hakimlik%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+      <Kategori>4</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>92</Sira>
+    </Kitap>
+    <Kitap Id="4">
+      <KitapAdi>2014 KPSS A Grubu İktisat Açıklamalı Soru Bankası</KitapAdi>
+      <Aciklama>
+        Bu eser, iktisadın sadece sınavlarda değil, hayatın her anında karşılaşılan bir gerçeklik olduğu düşüncesinden hareketle hazırlanmıştır.
+        Temel amacı, bir yandan KPSS başta olmak üzere kurum sınavlarına yönelik iyi bir kaynak olmak, bir yandan da üniversite eğitimi boyunca sevimsiz bir hale gelen ya da getirilen bir disiplini, okuyucu için anlaşılabilir hale getirmektir.
+        Kitap hazırlanırken, bazı kritik kavramlara ve sorulara yönelik olarak farklı sorular çözülmüş, böylelikle öğrencinin konuyu farklı boyutları ile kavraması amaçlanmıştır.
+        Türkçe literatürde değinilmeyen konulara, kitaplarda çözümüne yer verilmeyen problemlere yer verilmiş, mümkün oldukça bu problemleri problem olmaktan çıkaracak kısa yollara yer verilmiştir.
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2014%20KPSS%20A%20Grubu%20İktisat%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+      <Kategori>1</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>97</Sira>
+    </Kitap>
+    <Kitap Id="5">
+      <KitapAdi>2014 MÜDÜRÜM İcra Müdür ve Müdür Yardımcılığı Soru Bankası</KitapAdi>
+      <Aciklama>
+        Yeni sınav sitemine uygun
+        Tamamı açıklamalı tam 1535 soru
+        Akademisyen hocalarca 28 Haziran 2014`te yürürlüğe giren 5. yargı paketine göre hazırlanmıştır.
+
+        İÇİNDEKİLER :
+        İCRA VE İFLAS HUKUKU (KANUN - NİZAMNAME - YÖNETMELİK)
+        HARÇLAR
+        DAMGA VERGİSİ
+        KATMA DEĞER VERGİSİ KANUNLARI
+        HUKUK MUHAKEMELERİ (KANUN - YÖNETMELİK)
+        TEBLİGAT HUKUKU
+        BORÇLAR HUKUKU
+        TİCARET HUKUKU
+        TEMEL YURTTAŞLIK BİLGİSİ
+        ATATÜRK İLKELERİ VE İNKILAP TARİHİ
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2014%20MÜDÜRÜM%20İcra%20Müdür%20ve%20Müdür%20Yardımcılığı%20Soru%20Bankası.jpg</Resim>
+      <Kategori>6</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>95</Sira>
+    </Kitap>
+    <Kitap Id="6">
+      <KitapAdi>2015 Polisim PMYO Açıklamalı Soru Bankası</KitapAdi>
+      <Aciklama>
+        İÇİNDEKİLER :
+        TÜRKÇE
+        MATEMATİK
+        GEOMETRİ
+        İNKILAP TARİHİ VE ATATÜRKÇÜLÜK
+        COĞRAFYA
+        YURTTAŞLIK BİLGİSİ
+        GÜNCEL BİLGİLER VE KÜLTÜREL KONULAR
+        ÇIKMIŞ SINAV SORULARI
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2014%20Polisim%20PMYO%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+      <Kategori>5</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>96</Sira>
+    </Kitap>
+    <Kitap Id="7">
+      <KitapAdi>2014 Vergi Hukuku Açıklamalı Soru Bankası</KitapAdi>
+      <Aciklama>
+        İÇİNDEKİLER :
+        VERGİ USUL HUKUKU
+        VERGİ YASASI
+        6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN
+        TÜRK VEGİ SİSTEMİ
+        KURUMLAR VERGİSİ
+        HARCAMA ÜZERİNDE ALINAN VERGİLER (KATMA DEĞER VERGİSİ)
+        ÖZEL TÜKETİM VERGİSİ
+        DAMGA VERGİSİ
+        BANKA VE SİGORTA MUAMELELERİ VERGİSİ
+        ŞANS OYUNLARI VERGİSİ
+        EMLAK VERGİSİ
+        VERASET VE İNTİKAL VERGİSİ
+        MOTORLU TAŞITLAR VERGİSİ
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2014%20Vergi%20Hukuku%20Açıklamalı%20Soru%20Bankası.jpg</Resim>
+      <Kategori>1-4</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>94</Sira>
+    </Kitap>
+    <Kitap Id="8">
+      <KitapAdi>2015 Gelir Uzman Yardımcılığı Soru Cevap</KitapAdi>
+      <Aciklama>
+        Gelir uzman yardımcılığı, alım sayısının genel olarak yüksek olması sebebiyle birçok memur adayının nispeten daha rahat girebileceği bir meslek teşkil etmektedir. Bu nedenle KPSS sonrası, birçok aday kurum sınavına ilişkin çalışmalara daha sınav ilanı gelmeden önce başlamaktadır.
+        Bugüne kadar ki sınav soruları incelendiğinde, soruların KPSS formatından daha zor olmadığı hatta bazı soruların defalarca aynı şekilde sorulduğu görülmektedir. Ancak dikkatli bir soru analizi yapıldığında sınav sorularının kapsamının son derece geniş olduğu da açık bir şekilde ortaya çıkmaktadır. Örneğin hukuk içerisindeki her bir alandan çok farklı noktalardan sorular gelmektedir. Bu durum sadece hukuk değil, sınavın tüm alanları için geçerlidir.
+        Kapsam bakımından son derece geniş olan bu sınavda siz adayların en büyük yardımcısı elbette KPSS’ye hazırlık aşamasında edinmiş olduğunuz bilgi birikiminizdir. Bu kitabın amacı, daha önceden sahip olduğunuz bilgi birikimini en kısa ve en doğru şekilde bu sınava da yansıtarak, gelir uzman yardımcısı olarak mesleki kariyerinize başlamanıza katkı sağlamaktır.
+        Bu amaç ile, kitap hazırlanırken son 10 yılın gelir uzman yardımcılığı sınav soruları tek tek incelenmiş ve bu sorular merkez alınarak her bir alan için sınavda gelebilecek soru ve cevaplara kitapta yer verilmiştir. Son derece titiz ve özenli bir çalışmanın ürünü olan kitabımızın, sınava hazırlanan sizlere oldukça faydalı olacağına olan inancımızla, tüm adaylarımıza başarılar dileriz.
+      </Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kitaplar/2015%20Gelir%20Uzman%20Yardımcılığı%20Soru%20Cevap.gif</Resim>
+      <Kategori>7</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>79</Sira>
+    </Kitap>
+  </Kitaplar>
+  <Kurslar>
+    <Kurs Id="1">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/1.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>1</Sira>
+    </Kurs>
+    <Kurs Id="2">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/2.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>1</YeniCikan>
+      <Sira>2</Sira>
+    </Kurs>
+    <Kurs Id="3">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/3.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>3</Sira>
+    </Kurs>
+    <Kurs Id="4">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/4.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>4</Sira>
+    </Kurs>
+    <Kurs Id="5">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/5.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>5</Sira>
+    </Kurs>
+    <Kurs Id="6">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/6.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>6</Sira>
+    </Kurs>
+    <Kurs Id="7">
+      <KitapAdi></KitapAdi>
+      <Aciklama></Aciklama>
+      <Link></Link>
+      <Resim>Images/_Kurslar/7.jpg</Resim>
+      <Kategori>0</Kategori>
+      <YeniCikan>0</YeniCikan>
+      <Sira>7</Sira>
+    </Kurs>
+  </Kurslar>
+  <Yazarlar>
+    <Yazar Id="1">
+      <AdiSoyadi>SERHAT GÜVEN</AdiSoyadi>
+      <Aciklama>Anayasa Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="2">
+      <AdiSoyadi>Dr. LEVENT ERSİN</AdiSoyadi>
+      <Aciklama>İdare Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="3">
+      <AdiSoyadi>Dr. ALTUĞ KÖKTAŞ</AdiSoyadi>
+      <Aciklama>Maliye</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="4">
+      <AdiSoyadi>Dr. OKAN GELMEDİ</AdiSoyadi>
+      <Aciklama>Muhasebe</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="5">
+      <AdiSoyadi>Dr. AYTEN ÖZBİNGÖL</AdiSoyadi>
+      <Aciklama>Muhasebe</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="6">
+      <AdiSoyadi>MEHMET KABLABA</AdiSoyadi>
+      <Aciklama>İktisat</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="7">
+      <AdiSoyadi>BURAK DİNÇER</AdiSoyadi>
+      <Aciklama>Ticaret Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="8">
+      <AdiSoyadi>ÇAĞRI ÜNSAL</AdiSoyadi>
+      <Aciklama>Ceza Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="9">
+      <AdiSoyadi>SOYSAL AYGÜN</AdiSoyadi>
+      <Aciklama>İcra-İflas Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="10">
+      <AdiSoyadi>GÖKHAN AKSOY</AdiSoyadi>
+      <Aciklama>Medeni-Borçlar</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="11">
+      <AdiSoyadi>RECEP HOCA</AdiSoyadi>
+      <Aciklama>Medeni-Borçlar</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="12">
+      <AdiSoyadi>ÖZGÜR HOCA</AdiSoyadi>
+      <Aciklama>Ceza Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="13">
+      <AdiSoyadi>KUDRET HOCA</AdiSoyadi>
+      <Aciklama>Medeni Usul Hukuku</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="14">
+      <AdiSoyadi>AHMET HOCA</AdiSoyadi>
+      <Aciklama>İktisat</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="15">
+      <AdiSoyadi>BURCU HOCA</AdiSoyadi>
+      <Aciklama>İktisat</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="16">
+      <AdiSoyadi>GÖKMEN HOCA</AdiSoyadi>
+      <Aciklama>Matematik</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="17">
+      <AdiSoyadi>CAFER HOCA</AdiSoyadi>
+      <Aciklama>Matematik</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="18">
+      <AdiSoyadi>NİHAL HOCA</AdiSoyadi>
+      <Aciklama>Türkçe</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="19">
+      <AdiSoyadi>CESUR HOCA</AdiSoyadi>
+      <Aciklama>Tarih</Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>
+    <Yazar Id="20">
+      <AdiSoyadi>SEFA HOCA</AdiSoyadi>
+      <Aciklama>Coğrafya </Aciklama>
+      <Link></Link>
+      <Resim>images/demo/team-member.png</Resim>
+    </Yazar>   
+  </Yazarlar>
+  <Slaytlar>
+    <Slayt Id="1">
+      <Baslik>Test Başlık</Baslik>
+      <Aciklama>Test Açıklama</Aciklama>
+      <Tooltip>Test Tooltip</Tooltip>
+      <Resim>images/_Slaytlar/res1.jpg</Resim>
+      <Link></Link>
+    </Slayt>
+    <Slayt Id="2">
+      <Baslik>Test Başlık</Baslik>
+      <Aciklama>Test Açıklama</Aciklama>
+      <Tooltip>Test Tooltip</Tooltip>
+      <Resim>images/_Slaytlar/res2.jpg</Resim>
+      <Link></Link>
+    </Slayt>    
+  </Slaytlar>
+  <Kategoriler>
+    <Kategori Id="1">
+      <Adi>KPSS A GRUBU</Adi>
+    </Kategori>
+    <Kategori Id="2">
+      <Adi>GENEL KÜLTÜR - GENEL YETENEK</Adi>
+    </Kategori>
+    <Kategori Id="3">
+      <Adi>HAKİMLİK - KAYMAKAMLIK</Adi>
+    </Kategori>  
+  </Kategoriler>
+  <YayineviResimler>
+    <YayineviResim>
+      <Resim>Images/_Yayinevi/1.png</Resim>
+      <Aciklama></Aciklama>
+    </YayineviResim>
+    <YayineviResim>
+      <Resim>Images/_Yayinevi/2.jpg</Resim>
+      <Aciklama></Aciklama>
+    </YayineviResim>   
+  </YayineviResimler>
+</Root>

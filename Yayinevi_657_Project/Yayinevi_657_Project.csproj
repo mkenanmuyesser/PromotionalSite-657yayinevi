@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{36D3A541-A2AE-484B-A57A-2DC6AE37675F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Yayinevi_657_Project</RootNamespace>
+    <AssemblyName>Yayinevi_657_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.DynamicData">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Entity">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.EnterpriseServices">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Css\colors\blue.css" />
+    <Content Include="Css\colors\green.css" />
+    <Content Include="Css\colors\light-orange.css" />
+    <Content Include="Css\colors\orange.css" />
+    <Content Include="Css\colors\pink.css" />
+    <Content Include="Css\colors\purple.css" />
+    <Content Include="Css\colors\red.css" />
+    <Content Include="Css\colors\teal.css" />
+    <Content Include="Css\flexslider.css" />
+    <Content Include="Css\html5-reset.css" />
+    <Content Include="Css\ie.css" />
+    <Content Include="Css\jquery.fancybox.css" />
+    <Content Include="Css\mediaelementplayer.css" />
+    <Content Include="Css\polyglot-language-switcher.css" />
+    <Content Include="Css\shortcodes.css" />
+    <Content Include="Data\YayineviData.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Default.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\_Kaynaklar\1.jpg" />
+    <Content Include="Images\_Kaynaklar\10.jpg" />
+    <Content Include="Images\_Kaynaklar\11.jpg" />
+    <Content Include="Images\_Kaynaklar\12.jpg" />
+    <Content Include="Images\_Kaynaklar\13.jpg" />
+    <Content Include="Images\_Kaynaklar\14.jpg" />
+    <Content Include="Images\_Kaynaklar\15.jpg" />
+    <Content Include="Images\_Kaynaklar\16.jpg" />
+    <Content Include="Images\_Kaynaklar\17.jpg" />
+    <Content Include="Images\_Kaynaklar\18.jpg" />
+    <Content Include="Images\_Kaynaklar\19.jpg" />
+    <Content Include="Images\_Kaynaklar\2.jpg" />
+    <Content Include="Images\_Kaynaklar\20.jpg" />
+    <Content Include="Images\_Kaynaklar\21.jpg" />
+    <Content Include="Images\_Kaynaklar\22.jpg" />
+    <Content Include="Images\_Kaynaklar\23.jpg" />
+    <Content Include="Images\_Kaynaklar\24.jpg" />
+    <Content Include="Images\_Kaynaklar\25.jpg" />
+    <Content Include="Images\_Kaynaklar\26.jpg" />
+    <Content Include="Images\_Kaynaklar\27.jpg" />
+    <Content Include="Images\_Kaynaklar\28.jpg" />
+    <Content Include="Images\_Kaynaklar\29.jpg" />
+    <Content Include="Images\_Kaynaklar\3.jpg" />
+    <Content Include="Images\_Kaynaklar\4.jpg" />
+    <Content Include="Images\_Kaynaklar\5.jpg" />
+    <Content Include="Images\_Kaynaklar\6.jpg" />
+    <Content Include="Images\_Kaynaklar\7.jpg" />
+    <Content Include="Images\_Kaynaklar\8.jpg" />
+    <Content Include="Images\_Kaynaklar\9.jpg" />
+    <Content Include="Images\_Kurslar\1.jpg" />
+    <Content Include="Images\_Kurslar\2.jpg" />
+    <Content Include="Images\_Kurslar\3.jpg" />
+    <Content Include="Images\_Kurslar\4.jpg" />
+    <Content Include="Images\_Kurslar\5.jpg" />
+    <Content Include="Images\_Kurslar\6.jpg" />
+    <Content Include="Images\_Kurslar\7.jpg" />
+    <Content Include="Images\_Slaytlar\res3.jpg" />
+    <Content Include="Images\_Yayinevi\2.jpg" />
+    <Content Include="Kadromuz.aspx" />
+    <Content Include="Hakkimizda.aspx" />
+    <Content Include="Iletisim.aspx" />
+    <Content Include="Images\alert-16.png" />
+    <Content Include="Images\alert-56.png" />
+    <Content Include="Images\background-patterns\boxed\classy_fabric.png" />
+    <Content Include="Images\background-patterns\boxed\farmer.png" />
+    <Content Include="Images\background-patterns\boxed\first_aid_kit.png" />
+    <Content Include="Images\background-patterns\boxed\graphy.png" />
+    <Content Include="Images\background-patterns\boxed\grid.png" />
+    <Content Include="Images\background-patterns\boxed\kuji.png" />
+    <Content Include="Images\background-patterns\boxed\low_contrast_linen.png" />
+    <Content Include="Images\background-patterns\boxed\mirrored_squares.png" />
+    <Content Include="Images\background-patterns\boxed\nasty_fabric.png" />
+    <Content Include="Images\background-patterns\boxed\norwegian_rose.png" />
+    <Content Include="Images\background-patterns\boxed\office.png" />
+    <Content Include="Images\background-patterns\boxed\otis_redding.png" />
+    <Content Include="Images\background-patterns\boxed\px_by_Gre3g.png" />
+    <Content Include="Images\background-patterns\boxed\ravenna.png" />
+    <Content Include="Images\background-patterns\boxed\soft_wallpaper.png" />
+    <Content Include="Images\background-patterns\boxed\squares.png" />
+    <Content Include="Images\background-patterns\boxed\tiny_grid.png" />
+    <Content Include="Images\background-patterns\boxed\vichy.png" />
+    <Content Include="Images\background-patterns\boxed\washi.png" />
+    <Content Include="Images\background-patterns\boxed\wavecut.png" />
+    <Content Include="Images\background-patterns\boxed\whitey.png" />
+    <Content Include="Images\background-patterns\wide\bricks.png" />
+    <Content Include="Images\background-patterns\wide\brilliant.png" />
+    <Content Include="Images\background-patterns\wide\dots.png" />
+    <Content Include="Images\background-patterns\wide\squares-and-crosses.png" />
+    <Content Include="Images\background-patterns\wide\squares.png" />
+    <Content Include="Images\background-patterns\wide\subtle-dots.png" />
+    <Content Include="Images\background-patterns\wide\swirl.png" />
+    <Content Include="Images\blog\post-aside.png" />
+    <Content Include="Images\blog\post-audio.png" />
+    <Content Include="Images\blog\post-gallery.png" />
+    <Content Include="Images\blog\post-image.png" />
+    <Content Include="Images\blog\post-link.png" />
+    <Content Include="Images\blog\post-quote.png" />
+    <Content Include="Images\blog\post-standard.png" />
+    <Content Include="Images\blog\post-video.png" />
+    <Content Include="Images\bullets-and-arrows\arrow-down-lg-switcher.png" />
+    <Content Include="Images\bullets-and-arrows\arrow-right.png" />
+    <Content Include="Images\bullets-and-arrows\check.png" />
+    <Content Include="Images\bullets-and-arrows\circle.png" />
+    <Content Include="Images\bullets-and-arrows\square.png" />
+    <Content Include="Images\carousel-arrows.png" />
+    <Content Include="Images\check-green.png" />
+    <Content Include="Images\client-logos\audiojungle.png" />
+    <Content Include="Images\client-logos\codecanyon.png" />
+    <Content Include="Images\client-logos\graphicriver.png" />
+    <Content Include="Images\client-logos\photodune.png" />
+    <Content Include="Images\client-logos\themeforest.png" />
+    <Content Include="Images\contact\clock.png" />
+    <Content Include="Images\contact\fax.png" />
+    <Content Include="Images\contact\home.png" />
+    <Content Include="Images\contact\mail.png" />
+    <Content Include="Images\contact\phone.png" />
+    <Content Include="Images\demo\avatar-50x50.png" />
+    <Content Include="Images\demo\team-member.png" />
+    <Content Include="Images\entries\220x130\building-220x130.png" />
+    <Content Include="Images\entries\220x130\dining-and-living-cream-220x130.png" />
+    <Content Include="Images\entries\220x130\dining-brown-220x130.png" />
+    <Content Include="Images\entries\220x130\dining-white-220x130.png" />
+    <Content Include="Images\entries\220x130\dining-white2-220x130.png" />
+    <Content Include="Images\entries\220x130\living-brown-220x130.png" />
+    <Content Include="Images\entries\220x130\living-large-windows-220x130.png" />
+    <Content Include="Images\entries\220x130\living-white-220x130.png" />
+    <Content Include="Images\entries\220x130\study-220x130.png" />
+    <Content Include="Images\entries\220x130\villa-220x130.png" />
+    <Content Include="Images\entries\700x240\dining-brown-700x240.png" />
+    <Content Include="Images\entries\700x240\dining-white-700x240.png" />
+    <Content Include="Images\entries\700x240\dining-white2-700x240.png" />
+    <Content Include="Images\entries\700x240\living-white-700x240.png" />
+    <Content Include="Images\entries\700x240\study-700x240.png" />
+    <Content Include="Images\entries\700x500\dining-and-living-cream-700x500.png" />
+    <Content Include="Images\entries\700x500\living-brown-700x500.png" />
+    <Content Include="Images\entries\700x500\living-white-700x500.png" />
+    <Content Include="Images\entries\full-size\building.jpg" />
+    <Content Include="Images\entries\full-size\dining-and-living-cream.jpg" />
+    <Content Include="Images\entries\full-size\dining-brown.jpg" />
+    <Content Include="Images\entries\full-size\dining-white.jpg" />
+    <Content Include="Images\entries\full-size\dining-white2.jpg" />
+    <Content Include="Images\entries\full-size\living-brown.jpg" />
+    <Content Include="Images\entries\full-size\living-large-windows.jpg" />
+    <Content Include="Images\entries\full-size\living-white.jpg" />
+    <Content Include="Images\entries\full-size\study.jpg" />
+    <Content Include="Images\entries\full-size\villa.jpg" />
+    <Content Include="Images\entries\video\video1-700x393.png" />
+    <Content Include="Images\entries\video\video2-700x393.png" />
+    <Content Include="Images\error-16.png" />
+    <Content Include="Images\fancybox\blank.gif" />
+    <Content Include="Images\fancybox\fancybox_buttons.png" />
+    <Content Include="Images\fancybox\fancybox_loading.gif" />
+    <Content Include="Images\fancybox\fancybox_overlay.png" />
+    <Content Include="Images\fancybox\fancybox_sprite.png" />
+    <Content Include="Images\favicon.ico" />
+    <Content Include="Images\flag-16.png" />
+    <Content Include="Images\flags\de.png" />
+    <Content Include="Images\flags\es.png" />
+    <Content Include="Images\flags\fr.png" />
+    <Content Include="Images\flags\gb.png" />
+    <Content Include="Images\flags\it.png" />
+    <Content Include="Images\flags\mx.png" />
+    <Content Include="Images\flags\ru.png" />
+    <Content Include="Images\flags\us.png" />
+    <Content Include="Images\footer\contact\fax-footer.png" />
+    <Content Include="Images\footer\contact\home-footer.png" />
+    <Content Include="Images\footer\contact\mail-footer.png" />
+    <Content Include="Images\footer\contact\phone-footer.png" />
+    <Content Include="Images\footer\pencil-footer.png" />
+    <Content Include="Images\footer\twitter-bullet-footer.png" />
+    <Content Include="Images\icon-boxes\address-book.png" />
+    <Content Include="Images\icon-boxes\applications.png" />
+    <Content Include="Images\icon-boxes\chemical.png" />
+    <Content Include="Images\icon-boxes\cog.png" />
+    <Content Include="Images\icon-boxes\computer.png" />
+    <Content Include="Images\icon-boxes\globe.png" />
+    <Content Include="Images\icon-boxes\mouse.png" />
+    <Content Include="Images\icon-boxes\write.png" />
+    <Content Include="Images\info-16.png" />
+    <Content Include="Images\isortaklari\kitapsec.jpg" />
+    <Content Include="Images\isortaklari\yargi.png" />
+    <Content Include="Images\media-player\background.png" />
+    <Content Include="Images\media-player\bigplay.png" />
+    <Content Include="Images\media-player\controls.png" />
+    <Content Include="Images\media-player\loading.gif" />
+    <Content Include="Images\overlay-link.png" />
+    <Content Include="Images\overlay-zoom.png" />
+    <Content Include="Images\prettyPhoto\dark_rounded\btnNext.png" />
+    <Content Include="Images\prettyPhoto\dark_rounded\btnPrevious.png" />
+    <Content Include="Images\prettyPhoto\dark_rounded\contentPattern.png" />
+    <Content Include="Images\prettyPhoto\dark_rounded\default_thumbnail.gif" />
+    <Content Include="Images\prettyPhoto\dark_rounded\loader.gif" />
+    <Content Include="Images\prettyPhoto\dark_rounded\sprite.png" />
+    <Content Include="Images\prettyPhoto\dark_square\btnNext.png" />
+    <Content Include="Images\prettyPhoto\dark_square\btnPrevious.png" />
+    <Content Include="Images\prettyPhoto\dark_square\contentPattern.png" />
+    <Content Include="Images\prettyPhoto\dark_square\default_thumbnail.gif" />
+    <Content Include="Images\prettyPhoto\dark_square\loader.gif" />
+    <Content Include="Images\prettyPhoto\dark_square\sprite.png" />
+    <Content Include="Images\prettyPhoto\default\default_thumb.png" />
+    <Content Include="Images\prettyPhoto\default\loader.gif" />
+    <Content Include="Images\prettyPhoto\default\sprite.png" />
+    <Content Include="Images\prettyPhoto\default\sprite_next.png" />
+    <Content Include="Images\prettyPhoto\default\sprite_prev.png" />
+    <Content Include="Images\prettyPhoto\default\sprite_x.png" />
+    <Content Include="Images\prettyPhoto\default\sprite_y.png" />
+    <Content Include="Images\prettyPhoto\facebook\btnNext.png" />
+    <Content Include="Images\prettyPhoto\facebook\btnPrevious.png" />
+    <Content Include="Images\prettyPhoto\facebook\contentPatternBottom.png" />
+    <Content Include="Images\prettyPhoto\facebook\contentPatternLeft.png" />
+    <Content Include="Images\prettyPhoto\facebook\contentPatternRight.png" />
+    <Content Include="Images\prettyPhoto\facebook\contentPatternTop.png" />
+    <Content Include="Images\prettyPhoto\facebook\default_thumbnail.gif" />
+    <Content Include="Images\prettyPhoto\facebook\loader.gif" />
+    <Content Include="Images\prettyPhoto\facebook\sprite.png" />
+    <Content Include="Images\prettyPhoto\light_rounded\btnNext.png" />
+    <Content Include="Images\prettyPhoto\light_rounded\btnPrevious.png" />
+    <Content Include="Images\prettyPhoto\light_rounded\default_thumbnail.gif" />
+    <Content Include="Images\prettyPhoto\light_rounded\loader.gif" />
+    <Content Include="Images\prettyPhoto\light_rounded\sprite.png" />
+    <Content Include="Images\prettyPhoto\light_square\btnNext.png" />
+    <Content Include="Images\prettyPhoto\light_square\btnPrevious.png" />
+    <Content Include="Images\prettyPhoto\light_square\default_thumbnail.gif" />
+    <Content Include="Images\prettyPhoto\light_square\loader.gif" />
+    <Content Include="Images\prettyPhoto\light_square\sprite.png" />
+    <Content Include="Images\quote.png" />
+    <Content Include="Images\Logo.png" />
+    <Content Include="Images\scroll-top.png" />
+    <Content Include="Images\search.png" />
+    <Content Include="Images\slider\arrows.png" />
+    <Content Include="Images\slider\slides\building-940x350.png" />
+    <Content Include="Images\slider\slides\dining-brown-940x350.png" />
+    <Content Include="Images\slider\slides\living-brown-940x350.png" />
+    <Content Include="Images\slider\slides\living-white-940x350.png" />
+    <Content Include="Images\slider\slides\villa-940x350.png" />
+    <Content Include="Images\social-media\email.png" />
+    <Content Include="Images\social-media\facebook-circular.png" />
+    <Content Include="Images\social-media\facebook.png" />
+    <Content Include="Images\social-media\google-circular.png" />
+    <Content Include="Images\social-media\googleplus.png" />
+    <Content Include="Images\social-media\linkedin.png" />
+    <Content Include="Images\social-media\rss-circular.png" />
+    <Content Include="Images\social-media\skype-circular.png" />
+    <Content Include="Images\social-media\skype.png" />
+    <Content Include="Images\social-media\twitter-circular.png" />
+    <Content Include="Images\social-media\twitter.png" />
+    <Content Include="Images\social-media\youtube-circular.png" />
+    <Content Include="Images\testimonial-arrow.png" />
+    <Content Include="Images\toggle-minus.png" />
+    <Content Include="Images\toggle-plus.png" />
+    <Content Include="Images\web-browsers\chrome.png" />
+    <Content Include="Images\web-browsers\firefox.png" />
+    <Content Include="Images\web-browsers\internet-explorer.png" />
+    <Content Include="Images\web-browsers\opera.png" />
+    <Content Include="Images\web-browsers\safari.png" />
+    <Content Include="Images\_Kitaplar\2015 Hakimim - Adli Yargı Hakimlik Açıklamalı Soru Bankası %283.Baskı%29.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Hukuk Mülakat Bilgiyi Konuşturan Kitap.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Kaymakamlık Konu Anlatımlı Hazırlık Kitabı %28Yeni Sistem%29.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Grubu Açıklamalı Muhasebe Soru Bankası.gif" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Grubu Kamu Yönetimi Konu Anlatımlı.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Grubu Mikro İktisat Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Grubu Muhasebe Ders Notları.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS Tarih Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS Tarih Konu Anlatımlı.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Vergi Mevzuatı Hazırlık Kitabı.jpg" />
+    <Content Include="Images\_Kitaplar\2015 ÖABT Tarih Öğretmenliği Tamamı Çözümlü Soru Bankası.gif" />
+    <Content Include="Images\_Kitaplar\Kamu Yönetimi.jpg" />
+    <Content Include="Images\_Kitaplar\Kaymakamlık.jpg" />
+    <Content Include="Images\_KonferansResimler\1.jpg" />
+    <Content Include="Images\_KonferansResimler\2.jpg" />
+    <Content Include="Images\_KonferansResimler\3.jpg" />
+    <Content Include="Images\_Slaytlar\res1.jpg" />
+    <Content Include="Images\_Slaytlar\res2.jpg" />
+    <Content Include="Images\_Yayinevi\1.png" />
+    <Content Include="Images\_Yazarlar\leventersin.jpg" />
+    <Content Include="Images\_Yazarlar\serhatguven.jpg" />
+    <Content Include="Js\custom.js" />
+    <Content Include="Js\ddlevelsmenu.js" />
+    <Content Include="Js\flashmediaelement.swf" />
+    <Content Include="Js\ie.js" />
+    <Content Include="Js\jflickrfeed.min.js" />
+    <Content Include="Js\jquery-1.7.2.min.js" />
+    <Content Include="Js\jquery-ui-1.10.1.custom.min.js" />
+    <Content Include="Js\jquery.cycle.all.js" />
+    <Content Include="Js\jquery.easing.1.3.js" />
+    <Content Include="Js\jquery.fancybox.pack.js" />
+    <Content Include="Js\jquery.fitvids.js" />
+    <Content Include="Js\jquery.flexslider-min.js" />
+    <Content Include="Js\jquery.gmap.min.js" />
+    <Content Include="Js\jquery.jcarousel.min.js" />
+    <Content Include="Js\jquery.polyglot.language.switcher.js" />
+    <Content Include="Js\jquery.quicksand.js" />
+    <Content Include="Js\jquery.touchSwipe.min.js" />
+    <Content Include="Js\jquery.tweet.js" />
+    <Content Include="Js\jquery.ui.totop.min.js" />
+    <Content Include="Js\jquery.validate.min.js" />
+    <Content Include="Js\mediaelement-and-player.min.js" />
+    <Content Include="Js\modernizr.custom.js" />
+    <Content Include="Js\respond.min.js" />
+    <Content Include="Js\responsive-tables.js" />
+    <Content Include="Js\tinynav.min.js" />
+    <Content Include="Images\_Kitaplar\2014 HAKİMİM İdari Yargı Hakimlik Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2014 KPSS A Grubu İktisat Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2014 MÜDÜRÜM İcra Müdür ve Müdür Yardımcılığı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2014 Polisim PMYO Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2014 Vergi Hukuku Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Gelir Uzman Yardımcılığı Soru Cevap.gif" />
+    <Content Include="Images\_Kitaplar\2015 Gelir Uzman Yardımcılığı ve Vergi Hukuku Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Kamu Hukuku Ders Notları KPSS ve Tüm Kurum Sınavları İçin.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Grubu Tüm Kadrolar Mülakat Soruları.gif" />
+    <Content Include="Images\_Kitaplar\2015 KPSS A Maliye Ders Notları.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS Kamu Hukuku Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS Renklerle Tarih Soru Cevap.jpg" />
+    <Content Include="Images\_Kitaplar\2015 KPSS Özel Hukuk Açıklamalı Soru Bankası.gif" />
+    <Content Include="Images\_Kitaplar\2015 Lise Önlisans Mezunları İçin Bankacılık Mülakat Soruları.gif" />
+    <Content Include="Images\_Kitaplar\2015 Maliye Soru Bankası KPSS ve Tüm Kurum Sınavları İçin.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Sağlık Ekonomisi.gif" />
+    <Content Include="Images\_Kitaplar\2015 Sözleşmeli Subaylık Astsubaylık ve JANA Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 ÖABT Sosyal Bilgiler Öğretmenliği Tamamı Çözümlü Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\2015 Özel Hukuk Ders Notları KPSS ve Tüm Kurum Sınavları İçin.jpg" />
+    <Content Include="Images\_Kitaplar\Askerim Askeri Sınavlara Hazırlık Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\KPSS Muhasebe Açıklamalı Soru Bankası.jpg" />
+    <Content Include="Images\_Kitaplar\KPSS Temel Yurttaşlık Bilgisi Renklerle Soru Cevap.jpg" />
+    <Content Include="Images\_Kitaplar\İcra Müdür ve Müdür Yardımcılığı 5 Deneme Sınavı.jpg" />
+    <Content Include="Kaynaklarimiz.aspx" />
+    <Content Include="style.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Kadromuz.aspx.cs">
+      <DependentUpon>Kadromuz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kadromuz.aspx.designer.cs">
+      <DependentUpon>Kadromuz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.designer.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iletisim.aspx.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iletisim.aspx.designer.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Kaynaklarimiz.aspx.cs">
+      <DependentUpon>Kaynaklarimiz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kaynaklarimiz.aspx.designer.cs">
+      <DependentUpon>Kaynaklarimiz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Page\Root.Master.cs">
+      <DependentUpon>Root.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master_Page\Root.Master.designer.cs">
+      <DependentUpon>Root.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Kurslarimiz.aspx.cs">
+      <DependentUpon>Kurslarimiz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kurslarimiz.aspx.designer.cs">
+      <DependentUpon>Kurslarimiz.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master_Page\Root.Master" />
+    <None Include="Properties\PublishProfiles\acer.pubxml" />
+    <None Include="Properties\PublishProfiles\dell.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Kurslarimiz.aspx" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>6229</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:47213/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
